@@ -6,6 +6,10 @@ To be a conscious actor in the new civilization, I am defining here my own ethos
 
 [ethos.json](ethos.json)
 
+## As Markdown
+
+[ethos.md](ethos.md)
+
 ## Specifications Ver 1
 
 The JSON file defines an object.

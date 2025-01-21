@@ -46,3 +46,6 @@ All the steps have to conform to the Principles above. For example: you share yo
 1. Establishing role protocols, and composing the relationship contract.
 1. Enacting the contract. The contract is the ethos_3 of the institutional group.
 
+## Applications of Ethos
+
+- [Ethical Mediation](ethical_mediation.md)

@@ -1,4 +1,13 @@
-# Ethos
+---
+layout: default
+title: Meta Ethos
+sidebar_position: 3
+description: Meta Ethos
+keywords: [meta ethos, ethos]
+---
+[back](./)
+
+# Meta Ethos
 
 ## Principles
 

@@ -1,4 +1,16 @@
-# Ethos
+---
+layout: default
+title: My Ethos
+sidebar_position: 4
+description: My Ethos
+keywords: [meta ethos, ethos]
+---
+[back](./)
+
+# My Ethos
+
+  - in [JSON form](ethos.json)
+  - Phylogeny: from [minimal](/philogeny/minimal)
 
 ## Definitions
 
@@ -38,26 +50,7 @@
 
 ## Hierarchy
 
-1. order, hierarchy, provable order
-1. reason, faith
-1. economy
-1. charity, volunteering
-1. goodness, provable goodness
-1. hope, idealism, potential, invention, integration
-1. harmony, generosity, humility, recognition, greatness, gratitude, nobility
-1. prudence
-1. forgiveness, repentance
-1. justice
-1. governance
-1. temperance
-1. fairness
-1. fortitude
-1. competition
-1. measurability
-1. market
-1. abundance
-1. industriousness
-1. health, survival
+Same as in my [Theory of Virtues](https://virtues.provable.dev/docs/hierarchies#virtues-order)
 
 ## Principles
 

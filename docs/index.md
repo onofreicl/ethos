@@ -1,4 +1,15 @@
+---
+slug: /
+layout: default
+title: Ethics
+sidebar_position: 1
+description: Ethos, Ethics 
+keywords: [ethics, empathy, ethos]
+---
+
 # Ethics
+
+Definition: The interaction rules between one or more ethoses.
 
 ## Principles
 

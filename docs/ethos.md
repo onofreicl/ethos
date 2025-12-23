@@ -9,7 +9,7 @@ keywords: [meta ethos, ethos]
 
 # My Ethos
 
-  - in [JSON form](ethos.json)
+  - in [JSON form](/ethos.json)
   - Phylogeny: from [minimal](/philogeny/minimal)
 
 ## Definitions

@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /philogeny
 layout: default
 title: Phylogeny
 sidebar_position: 5

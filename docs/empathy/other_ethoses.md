@@ -9,7 +9,7 @@ keywords: [other ethoses, ethos]
 
 # Other Ethoses
 
-### [The Love Equation](https://readmultiplex.com/2025/12/20/how-one-starry-night-in-1978-thinking-about-alien-intelligence-i-solved-the-ai-alignment-problem-with-the-love-equation/) $ \frac{dE}{dt} = \beta (C - D) E $  by [Brian Roemmele](https://x.com/BrianRoemmele)
+### [The Love Equation](https://readmultiplex.com/2025/12/20/how-one-starry-night-in-1978-thinking-about-alien-intelligence-i-solved-the-ai-alignment-problem-with-the-love-equation/) $\frac{dE}{dt} = \beta (C - D) E$  by [Brian Roemmele](https://x.com/BrianRoemmele)
 
 1. Recognition: I have considered this article above as an ethos declaration: [message](https://x.com/ctzurcanu/status/2002624300302643205)
 1. Classification: I think this ethos meets the criteria of [Minimal Ethos](/phylogeny/minimal), but I cannot be sure without further dialogue.

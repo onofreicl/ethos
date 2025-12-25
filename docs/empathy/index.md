@@ -7,9 +7,9 @@ description: Ethical Empathy
 keywords: [ethics, empathy, ethos, recognition]
 ---
 
-# Empathy
+# Ethical Empathy
 
-An Ethos has its own empathy (to other ethoses). The stages of ethical empathy:
+An Ethos has its own empathy (with other ethoses). The stages of ethical empathy:
 
 1. Recognition
 1. Discrimination/Classification

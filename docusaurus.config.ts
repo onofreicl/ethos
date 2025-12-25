@@ -43,6 +43,9 @@ const config: Config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/ctzurcanu/ethos/tree/main/',
+          remarkPlugins: [require('remark-math')],
+          rehypePlugins: [require('rehype-katex')]
+        
         },
         blog: false,
         theme: {
@@ -50,6 +53,15 @@ const config: Config = {
         },
       } satisfies Preset.Options,
     ],
+  ],
+
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css',
+      type: 'text/css',
+      integrity: 'sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGF4uvNQIa4b',
+      crossorigin: 'anonymous',
+    },
   ],
 
   themeConfig: {

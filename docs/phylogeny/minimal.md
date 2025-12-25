@@ -1,3 +1,13 @@
+---
+slug: /phylogeny/minimal
+layout: default
+title: Minimal Ethos
+sidebar_position: 3
+description: Minimal Ethos
+keywords: [minimal ethos, ethos]
+---
+[back](./)
+
 # Minimal Ethos
 
 ## Principles
@@ -34,4 +44,4 @@
 ### No Contradiction Claim
 
 - short: `no_contradiction_claim`
-- long: `I will keep my ethos free of contradicting claims.`
+- long: `I will keep my ethos free of self-contradicting claims.`

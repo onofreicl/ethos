@@ -9,4 +9,7 @@ keywords: [ethics, empathy, ethos, phylogeny]
 
 # Phylogeny
 
-1. Minimal
+1. [Minimal](minimal.md)
+  a. [Upgradeable](upgradeable.md)
+    i. [Max Flexible](max_flexible.md)
+

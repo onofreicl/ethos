@@ -2,7 +2,7 @@
 slug: /phylogeny/minimal
 layout: default
 title: Minimal Ethos
-sidebar_position: 3
+sidebar_position: 1
 description: Minimal Ethos
 keywords: [minimal ethos, ethos]
 ---

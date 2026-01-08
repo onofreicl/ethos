@@ -41,6 +41,8 @@ As a self-proclaimed Christian, I have to disent from the way Christianity is un
 
 ### United Nations Charter
 
+Signatory [countries](countries.md).
+
 #### Constitutions of Countries
 
 #### Other Constitutions

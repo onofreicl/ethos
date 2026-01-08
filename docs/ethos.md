@@ -10,7 +10,12 @@ keywords: [meta ethos, ethos]
 # My Ethos
 
   - in [JSON form](/ethos.json)
-  - Phylogeny: from [minimal](/phylogeny/minimal)
+  - Phylogeny: from [challengeable](/phylogeny/challengeable)
+
+## Declarations
+
+- Ethos is challengeable by this link: [New Challenge](https://github.com/ctzurcanu/ethos/issues/new) A comprehensive history of the challenge types and instances and their ethical conclusions is here: [Issues](https://github.com/ctzurcanu/ethos/issues). I accept new challenges only if they are of a new type or subtype.
+I will do my best to answer any challenge within 3 days.
 
 ## Definitions
 

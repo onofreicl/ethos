@@ -20,6 +20,6 @@ keywords: [upgradeable ethos, ethos]
 
 ### Ethos is Upgradeable
 
-- short: `upgradeable_ethos`
+- short: `upgradeable`
 - long: `I keep my ethos flexible and upgradeable by means of reasonable demonstration or (where lacking) consensus. The upgrade may consist of changing the order of my hierarchy, adding new items, or removing items.`
 

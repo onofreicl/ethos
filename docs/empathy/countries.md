@@ -1,6 +1,6 @@
 # Countries in ONU
 
-These signatories of the UN's Charter can be considered as meeting the [Minimal](../phylogeny/minimal.md) ethos:
+These signatories of the [UN's Charter](https://www.un.org/en/about-us/un-charter/full-text) can be considered as meeting the [Minimal](../phylogeny/minimal.md) ethos:
 
 Total: 193
 

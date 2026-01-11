@@ -10,12 +10,29 @@ keywords: [meta ethos, ethos]
 # My Ethos
 
   - in [JSON form](/ethos.json)
-  - Phylogeny: from [challengeable](/phylogeny/challengeable)
+  - Phylogeny: from: 
+    - [challengeable](/phylogeny/challengeable)
+    - [alignable](/phylogeny/alignable.md)
 
 ## Declarations
 
-- Ethos is challengeable by this link: [New Challenge](https://github.com/ctzurcanu/ethos/issues/new) A comprehensive history of the challenge types and instances and their ethical conclusions is here: [Issues](https://github.com/ctzurcanu/ethos/issues). I accept new challenges only if they are of a new type or subtype.
-I will do my best to answer any challenge within 3 days.
+- minimal
+  1. golden_rule_negative: I do not do to others what I do not wish done to myself.
+  1. one_ethos: I have only one ethos, made public here.
+  1. live_ethos: What I believe, I share in this ethos.
+  1. ack_other_ethos: I acknowledge the existence of other ethos(es) than mine.
+  1. ack_other_ethos_importance: I acknowledge that unless proven otherwise, other ethos(es) than mine have an equal importance to my ethos.
+  1. no_contradiction_claim: I will keep my ethos free of self-contradicting claims.
+- challengeable
+  1. challengeable: Ethos is challengeable by this link: [New Challenge](https://github.com/ctzurcanu/ethos/issues/new). A comprehensive history of the challenge types and instances and their ethical conclusions is here: [Issues](https://github.com/ctzurcanu/ethos/issues). I accept new challenges only if they are of a new type or subtype.
+- upgradeable
+  1. upgradeable: I keep my ethos flexible and upgradeable by means of reasonable demonstration or (where lacking) consensus. The upgrade may consist of changing the order of my hierarchy, adding new items, or removing items.
+- joinable
+  1. joinable: Ethos is joinable by forking this repo and declaring in a public space (such as X.com) that you joined this ethos (with a link to the revision).
+- non-binding: Ethos is non-binding: I can leave (un-join) this ethos at any time, for any reason or without a reason. The un-join has to be declared publicly.
+- respectuous: I keep my ethos respectuous: my ethos will recognize in public other ethoses. Will abide also by their rules, if not in grave conflict.
+- alignable: This ethos is alignable: keeps a list of other ethoses and their classification. Establishes what actions can be executed together and in what ehtical conditions.
+
 
 ## Definitions
 
@@ -28,6 +45,7 @@ I will do my best to answer any challenge within 3 days.
 
 ### Virtues
 
+- miracle_ct1: Provable exceptions to the laws of nature.
 - order_ct1: (henceforth: order): The ordering of virtues that is provable by reason or by consensus. The ordering is a virtue by itself.
 - reason_ct1: reason: The construction of a proof.
 - faith_ct1: faith: The belief in axioms, in existence of concepts.
@@ -57,16 +75,10 @@ I will do my best to answer any challenge within 3 days.
 
 Same as in my [Theory of Virtues](https://virtues.provable.dev/docs/hierarchies#virtues-order)
 
-## Principles
-
-- I always uphold the negative golden rule.
-- With people with known ethos, I sometimes uphold the positive golden rule.
-- I uphold the categorical imperative.
-- I acknowledge the existence of other ethos(es).
-- I invite judgement.
-
 
 ## Evolution
+
+The commits to this repo are the evolution path of this ethos.
 
 ## No Identity
 

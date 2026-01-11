@@ -20,6 +20,6 @@ keywords: [max flexible ethos, ethos]
 
 ### Ethos is Max Flexible
 
-- short: `max_flexible_ethos`
+- short: `max_flexible`
 - long: `I keep my ethos maximally-flexible: there is no ethos that my ethos is unable to become: given some ethical conditions.`
 

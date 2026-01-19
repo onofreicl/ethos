@@ -2,7 +2,7 @@
 slug: /phylogeny/proof_accepting
 layout: default
 title: Proof Accepting Ethos
-sidebar_position: 20
+sidebar_position: 50
 description: Proof Accepting Ethos
 keywords: [upgradeable ethos, ethos]
 ---

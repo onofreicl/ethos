@@ -2,7 +2,7 @@
 slug: /phylogeny/alignable
 layout: default
 title: Alignable Ethos
-sidebar_position: 16
+sidebar_position: 46
 description: Alignable Ethos
 keywords: [alignable ethos, ethos]
 ---

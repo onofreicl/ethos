@@ -2,7 +2,7 @@
 slug: /phylogeny/challengeable
 layout: default
 title: Challengeable Ethos
-sidebar_position: 5
+sidebar_position: 32
 description: Challengeable Ethos
 keywords: [challengeable ethos, ethos]
 ---

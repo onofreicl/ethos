@@ -2,7 +2,7 @@
 slug: /phylogeny/formal_proof
 layout: default
 title: Formal Proof Accepting Ethos
-sidebar_position: 22
+sidebar_position: 52
 description: Formal Proof Accepting Ethos
 keywords: [formal proof ethos, ethos]
 ---

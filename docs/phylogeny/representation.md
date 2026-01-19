@@ -2,7 +2,7 @@
 slug: /phylogeny/representation
 layout: default
 title: Representation Accepting Ethos
-sidebar_position: 26
+sidebar_position: 58
 description: Representation Accepting Ethos
 keywords: [representation ethos, ethos]
 ---

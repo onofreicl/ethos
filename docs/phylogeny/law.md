@@ -2,7 +2,7 @@
 slug: /phylogeny/law
 layout: default
 title: Law Accepting Ethos
-sidebar_position: 26
+sidebar_position: 56
 description: Law Accepting Ethos
 keywords: [law ethos, ethos]
 ---

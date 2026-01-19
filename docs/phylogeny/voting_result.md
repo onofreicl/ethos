@@ -2,7 +2,7 @@
 slug: /phylogeny/voting_result
 layout: default
 title: Voting Result Accepting Ethos
-sidebar_position: 24
+sidebar_position: 54
 description: Voting Result Accepting Ethos
 keywords: [voting result ethos, ethos]
 ---

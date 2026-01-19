@@ -2,7 +2,7 @@
 slug: /phylogeny/respectuous
 layout: default
 title: Respectuous Ethos
-sidebar_position: 14
+sidebar_position: 44
 description: Respectuous Ethos
 keywords: [respectuous ethos, ethos]
 ---

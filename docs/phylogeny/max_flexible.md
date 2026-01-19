@@ -2,7 +2,7 @@
 slug: /phylogeny/max_flexible
 layout: default
 title: Max Flexible Ethos
-sidebar_position: 7
+sidebar_position: 36
 description: Max Flexible Ethos
 keywords: [max flexible ethos, ethos]
 ---
@@ -12,7 +12,7 @@ keywords: [max flexible ethos, ethos]
 
 ## Derived From
 
-- [Challengeable](challengeable.md)
+- [Testable](testable.md)
 
 ## Additions to the Derived:
 

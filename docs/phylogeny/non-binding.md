@@ -2,7 +2,7 @@
 slug: /phylogeny/non-binding
 layout: default
 title: Non-binding Ethos
-sidebar_position: 12
+sidebar_position: 42
 description: Non-binding Ethos
 keywords: [non-binding ethos, ethos]
 ---
@@ -21,4 +21,4 @@ keywords: [non-binding ethos, ethos]
 ### Ethos is Non-binding
 
 - short: `non-binding`
-- long: `Ethos is non-binding: you can leave (un-join) this ethos at any time, for any reason or without a reason. The un-join has to be declared publicly.`
+- long: `Ethos is non-binding: one can leave (un-join) this ethos at any time, for any reason or without a reason. The un-join has to be declared publicly.`

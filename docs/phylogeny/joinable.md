@@ -2,7 +2,7 @@
 slug: /phylogeny/joinable
 layout: default
 title: Joinable Ethos
-sidebar_position: 10
+sidebar_position: 40
 description: Joinable Ethos
 keywords: [joinable ethos, ethos]
 ---

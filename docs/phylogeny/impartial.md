@@ -2,7 +2,7 @@
 slug: /phylogeny/impartial
 layout: default
 title: Impartial Ethos
-sidebar_position: 18
+sidebar_position: 48
 description: Impartial Ethos
 keywords: [challengeable ethos, ethos]
 ---

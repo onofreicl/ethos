@@ -2,7 +2,7 @@
 slug: /phylogeny/upgradeable
 layout: default
 title: Upgradeable Ethos
-sidebar_position: 3
+sidebar_position: 30
 description: Upgradeable Ethos
 keywords: [upgradeable ethos, ethos]
 ---

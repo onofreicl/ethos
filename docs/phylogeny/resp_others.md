@@ -2,7 +2,7 @@
 slug: /phylogeny/resp_others_
 layout: default
 title: Responsible for Others Ethos
-sidebar_position: 3
+sidebar_position: 4
 description: Responsible for Others Ethos
 keywords: [responsible for others ethos, ethos]
 ---

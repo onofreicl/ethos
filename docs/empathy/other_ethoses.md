@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other Ethoses
-sidebar_position: 3
+sidebar_position: 1
 description: Other Ethoses
 keywords: [other ethoses, ethos]
 ---
@@ -52,6 +52,63 @@ As a self-proclaimed Christian, I have to disent from the way Christianity is un
 Signatory [countries](countries.md).
 
 #### Constitutions of Countries
+
+##### Republican Ethos (150)
+
+[The Ethos](republican.md) presumably shared by all republics.
+
+##### Monarchic Ethos (43)
+
+43 countries align themselves with being monarchies:
+
+- Europe (12):
+    - Andorra
+    - Belgium
+    - Denmark
+    - Liechtenstein
+    - Luxembourg
+    - Monaco
+    - Netherlands
+    - Norway
+    - Spain
+    - Sweden
+    - United Kingdom
+    - Vatican City
+- Asia (13)
+    - Bahrain
+    - Bhutan
+    - Brunei
+    - Cambodia
+    - Japan
+    - Jordan
+    - Kuwait
+    - Malaysia
+    - Oman
+    - Qatar
+    - Saudi Arabia
+    - Thailand
+    - United Arab Emirates
+- Africa (3)
+    - Eswatini
+    - Lesotho
+    - Morocco
+    - Oceania (6)
+    - Australia
+    - New Zealand
+    - Papua New Guinea
+    - Solomon Islands
+    - Tonga
+    - Tuvalu
+- Americas (9)
+    - Antigua and Barbuda
+    - Bahamas
+    - Belize
+    - Canada
+    - Grenada
+    - Jamaica
+    - Saint Kitts and Nevis
+    - Saint Lucia
+    - Saint Vincent and the Grenadines
 
 #### Other Constitutions
 

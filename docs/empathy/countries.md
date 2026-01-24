@@ -1,4 +1,13 @@
-# Countries in ONU
+---
+layout: default
+title: Countries in UN
+sidebar_position: 3
+description: Countries in UN
+keywords: [un, onu, ethos]
+---
+[back](./)
+
+# Countries in ONU (193)
 
 These signatories of the [UN's Charter](https://www.un.org/en/about-us/un-charter/full-text) can be considered as meeting the [Minimal](../phylogeny/minimal.md) ethos:
 
@@ -225,3 +234,6 @@ Total: 9
   - Limited international recognition
 1. Transnistria
   - Limited international recognition
+
+
+[back](./)

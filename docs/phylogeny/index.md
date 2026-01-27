@@ -33,9 +33,10 @@ keywords: [ethics, empathy, ethos, phylogeny]
                         1. [Generous](generous.md)
     1. (provability) [Accepting of Proofs](proof_accepting.md)
         1. Accepting of [Formal Proof](formal_proof.md)
-            1. Accepting of [Voting Result](voting_result.md)
-                1. Accepting of [Law](law.md)
-                1. Accepting of [Representation](representation.md)
+            1. Accepting of [Witnesses](witnesses.md)
+                1. Accepting of [Voting Result](voting_result.md)
+                    1. Accepting of [Law](law.md)
+                    1. Accepting of [Representation](representation.md)
 
 ## [5 Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) Connection
 

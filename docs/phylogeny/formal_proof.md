@@ -21,5 +21,5 @@ keywords: [formal proof ethos, ethos]
 ### Ethos is Formal Proof Accepting
 
 - short: `formal_proof`
-- long: `My ethos is accepting formal proofs of these forms <link 1>. The solutions for the proofs received are at <link 2>.`
+- long: `My ethos is accepting formal proofs of these forms <link 1>. The solutions for the proofs received are at <link 2>. The formal proof types that I do not accept I cannot use for my benefit.`
 

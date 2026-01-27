@@ -12,7 +12,7 @@ keywords: [voting result ethos, ethos]
 
 ## Derived From
 
-- [Formal Proof](formal_proof.md)
+- Accepting of [Witnesses](witnesses.md)
 
 ## Additions to the Derived:
 
@@ -21,6 +21,6 @@ keywords: [voting result ethos, ethos]
 ### Ethos is Voting Result Accepting
 
 - short: `voting_result`
-- long: `Absent a formal proof in a domain: if the voting process is formally provable, and if the voters have an ethos that accepts the voting result, my ethos is accepting its results. Types of formally provable voting accepted <link 2>. Instances of vote and their result <link 2>.`
+- long: `Absent a formal proof and witnesses for an event: if the voting process is formally provable, and if the voters have an ethos that accepts the voting result, my ethos is accepting its results. Types of formally provable voting accepted <link 2>. Instances of vote and their result <link 2>.`
 
 

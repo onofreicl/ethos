@@ -1,5 +1,5 @@
 ---
-slug: /empathy/cooperations/petition1
+slug: petition1
 layout: default
 title: Petition from Mihai Rapcea's Ethos
 sidebar_position: 3

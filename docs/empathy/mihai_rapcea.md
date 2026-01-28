@@ -18,6 +18,7 @@ keywords: [mihai rapcea, ethos]
   1. not joinable
   1. not challengeable: this was clarified in video 2
 1. Dialogue: I have made several attempts to dialogue with Mr. Rapcea by email. Limited answers by email. Provable upon request. But a clarification by YT video 2 was provided.
+- an invitation for collaboration was received: https://www.facebook.com/ValulDemocratiei/posts/pfbid02TwX9YwevZX8wsAMiBT1BQaPSH5PWdm56Kj5zmBuUm5Zr8vbaBTJN6EHdJTpRoi5Sl and was [answered in detail](/empathy/cooperations/petition1).
 1. Present conclusion: Mihai Rapcea has an ethos that is relatively well-established, but not challengeable.
 
 [back](./)

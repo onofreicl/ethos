@@ -21,5 +21,5 @@ keywords: [making art ethos, ethos]
 ### Ethos is Making Art
 
 - short: `making_art`
-- long: `I am making art for bulding/shaping this ethos .`
+- long: `I am making art for bulding/shaping this ethos <link1>.`
 

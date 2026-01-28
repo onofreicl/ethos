@@ -13,6 +13,6 @@ An Ethos has its own empathy (with other ethoses). The stages of ethical empathy
 
 1. Recognition
 1. Discrimination/Classification
-1. If the other Ethos is [Upgradeable](../phylogeny/upgradeable.md): Dialogue
+1. If the other Ethos is [Flexible](/phylogeny/flexible): Dialogue
 1. Integration/Understanding
 1. Cooperation

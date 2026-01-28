@@ -12,7 +12,7 @@ keywords: [challengeable ethos, ethos]
 
 ## Derived From
 
-- [Upgradeable](upgradeable.md)
+- [Flexible](flexible.md)
 
 ## Additions to the Derived:
 

@@ -1,5 +1,5 @@
 ---
-slug: /phylogeny
+slug: /phylogeny/
 layout: default
 title: Phylogeny
 sidebar_position: 5
@@ -21,10 +21,11 @@ keywords: [ethics, empathy, ethos, phylogeny]
             1. [ALS of Geography](als_resources.md)
             1. [ALS of Time](als_resources.md)
             1. [ALS of Intelligence](als_resources.md)
-    1. (flexibility) [Upgradeable](upgradeable.md)
+    1. (flexibility) [Flexible](flexible.md)
         1. [Challengeable](challengeable.md)
             1. [Testable](testable.md)
-                1. [Max Flexible](max_flexible.md)
+                1. Accepting [Arbitrage](arbitrage.md)
+                    1. [Max Flexible](max_flexible.md)
     1. (cooperative) [Joinable](joinable.md)
         1. [Non-binding](non-binding.md)
             1. [Respectuous](respectuous.md)

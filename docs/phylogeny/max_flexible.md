@@ -12,7 +12,7 @@ keywords: [max flexible ethos, ethos]
 
 ## Derived From
 
-- [Testable](testable.md)
+- Accepting [Arbitrage](arbitrage.md)
 
 ## Additions to the Derived:
 

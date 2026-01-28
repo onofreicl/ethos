@@ -42,12 +42,14 @@ keywords: [meta ethos, ethos]
     1. WIP
 1. [ALS of Intelligence](/phylogeny/als_resources.md)
     1. WIP
-1. (flexibility) [Upgradeable](/phylogeny/upgradeable.md)
-    1. `upgradeable`: I keep my ethos flexible and upgradeable by means of reasonable demonstration or (where lacking) consensus. The upgrade may consist of changing the order of my hierarchy, adding new items, or removing items.
+1. (flexibility) [Flexible](/phylogeny/flexible.md)
+    1. `flexible`: I keep my ethos flexible by means of reasonable demonstration or (where lacking) consensus. The change may consist of modifying the order of my virtue hierarchy, adding new items, or removing items.
 1. [Challengeable](/phylogeny/challengeable.md)
     1. `challengeable`: Ethos is challengeable by this link: [New Challenge](https://github.com/ctzurcanu/ethos/issues/new). A comprehensive history of the challenge types and instances and their ethical conclusions is here: [Issues](https://github.com/ctzurcanu/ethos/issues). I accept new challenges only if they are of a new type or subtype.
 1. [Testable](/phylogeny/testable.md)
     1. `testability`: This ethos uses a meta-ethos that establishes the protocols for testing ethoses in my life.
+1. Accepting [Arbitrage](/phylogeny/arbitrage.md)
+    1. `arbitrage`: This ethos is accepting arbitrage from a person or ethos C in order to achieve a common understanding with ethos B. I also remain available for arbitrage services to any person or ethos who accepts arbitration and needs it.
 1. [Max Flexible](/phylogeny/max_flexible.md)
     1. WIP
 1. (cooperative) [Joinable](/phylogeny/joinable.md)

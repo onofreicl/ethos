@@ -1,13 +1,30 @@
 ---
+slug: /phylogeny/arbitrage
 layout: default
-title: Ethical Mediation
-sidebar_position: 2
-description: Ethical Mediation 
-keywords: [love, empathy, ethos]
+title: Accepting Arbitrage
+sidebar_position: 36
+description: Accepting Arbitrage Ethos
+keywords: [arbitrage ethos, ethos]
 ---
 [back](./)
 
-# Ethical Mediation
+
+# Ethical Arbitrage
+
+## Derived From
+
+- [Testable](testable.md)
+
+## Additions to the Derived:
+
+## Declarations
+
+### Ethos is Accepting Arbitrage
+
+- short: `arbitrage`
+- long: `This ethos is accepting arbitrage from a person or ethos C in order to achieve a common understanding with ethos B. I also remain available for arbitrage services to any person or ethos who accepts arbitration and needs it.`
+
+
 
 ## Ethical Embedding Space
 
@@ -25,7 +42,7 @@ We can calculate an ethical average between the 2 ethoses:
 
 We name the resulting point "ethos i". This ethos is the most likely ethos of the eventual friendship (or institution) that will exist as an outcome of communication and transactions between the entities with "ethos 1" and "ethos 2". And those 2 entities may already be institutions or one human and one institution.
 
-## The Case for Mediation
+## The Case for Arbitrage
 
 If the 2 entities with "ethos 1" and "ethos 2" do not fall into a natural or amiable acceptance of "ethos i", they may accept guidance and mediation.
 
@@ -37,7 +54,7 @@ The search sphere is enlarged until it discovers the nearest ethos: "ethos 3" in
 
 ## Quantification
 
-The result of entities 1 and 2 having a better relationship can be quantified: if any of them change their ethos as a result of the institutional ethos "ethos i" or as a result of the mediation by entity 3, it is a mediation-driven ethical change. The magnitude of the change can be calculated by the distance between the position of the old ethos and the one of the new ethos.
+The result of entities 1 and 2 having a better relationship can be quantified: if any of them change their ethos as a result of the institutional ethos "ethos i" or as a result of the mediation by entity 3, it is an arbitrage-driven ethical change. The magnitude of the change can be calculated by the distance between the position of the old ethos and the one of the new ethos.
 
 If this ethical change places their new ethos closer to "ethos i", then the change is an attractive change.
 

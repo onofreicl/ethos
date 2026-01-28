@@ -38,7 +38,7 @@ keywords: [republican ethos, ethos]
             1. [ALS of Geography](/phylogeny/als_resources.md)
             1. [ALS of Time](/phylogeny/als_resources.md)
             1. [ALS of Intelligence](/phylogeny/als_resources.md)
-    1. (flexibility) [Upgradeable](/phylogeny/upgradeable.md)
+    1. (flexibility) [Flexible](/phylogeny/flexible.md)
         - by the existence of a Legislative Body
         - by Courts of Law and jurisprudence
         1. [Challengeable](/phylogeny/challengeable.md)

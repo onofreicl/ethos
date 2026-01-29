@@ -41,13 +41,13 @@ keywords: [ethics, empathy, ethos, phylogeny]
 
 ## [5 Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) Connection
 
-| attribute      | OCEAN                 | measures               |
-|----------------|-----------------------|------------------------|
-| flexibility    | (O) openness          | creativity, curiosity, and willingness to entertain new ideas |
-| responsibility | (C) conscientiousness | self-control, diligence, and attention to detail |
-| aware          | (E) extraversion      | boldness, energy, and social interactivity |
-| cooperative    | (A) agreeableness     | kindness, helpfulness, and willingness to cooperate |
-| provability    | (N) neuroticism       | depression, irritability, and moodiness |
+| attribute      | role          | OCEAN                 | measures               |
+|----------------|---------------|-----------------------|------------------------|
+| flexibility    |  arbiter      | (O) openness          | creativity, curiosity, and willingness to entertain new ideas |
+| responsibility |  voluntarist  | (C) conscientiousness | self-control, diligence, and attention to detail |
+| aware          |  ambassador   | (E) extraversion      | boldness, energy, and social interactivity |
+| cooperative    |  friend       | (A) agreeableness     | kindness, helpfulness, and willingness to cooperate |
+| provability    |  witness      | (N) neuroticism       | depression, irritability, and moodiness |
 
 
 

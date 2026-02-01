@@ -26,8 +26,8 @@ keywords: [meta ethos, ethos]
     1. `responsible_others`: I am responsible for the collective actions of others who adopted this ethos. I will make reparations in the proportion that is just.
 1. [Missionary](/phylogeny/missionary.md)
     1. `missionary`: I am fulfilling my duties as a proverbial [godparent](https://en.wikipedia.org/wiki/Godparent) to these individuals: (wip). And I would like to volunteer for more initiations and guidance into this ethos.
-1. [Voluntarist](/phylogeny/voluntarist.md)
-    1. `voluntarist`: I will do the work to repair the mistakes of my proverbial "godchildren" if their actions are not fully respecting the ethos.
+1. [Heroic](/phylogeny/heroic.md)
+    1. `heroic`: I will do the work to repair the mistakes of my proverbial "godchildren" if their actions are not fully respecting the ethos. I will do more than my duty towards my ethos.
 1. [Art Making](/phylogeny/making_art.md)
     1. `making_art`: I am making art for bulding/shaping this ethos [YouTube Channel](https://www.youtube.com/@ChristianTzurcanu).
 1. [Ethos Forming](/phylogeny/forming.md)

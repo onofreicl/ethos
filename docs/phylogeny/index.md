@@ -13,7 +13,7 @@ keywords: [ethics, empathy, ethos, phylogeny]
     1. (responsibility) [Responsible](responsible.md)
         1. [Responsible for Others](resp_others.md)
             1. [Missionary](missionary.md)
-                1. [Voluntarist](voluntarist.md)
+                1. [Heroic](heroic.md)
                     1. [Art Making](making_art.md)
                         1. [Ethos Forming](forming.md)
     1. (awareness) [Aware of Limitations and Surplus (ALS)](aware_ls.md)
@@ -21,6 +21,7 @@ keywords: [ethics, empathy, ethos, phylogeny]
             1. [ALS of Geography](als_resources.md)
             1. [ALS of Time](als_resources.md)
             1. [ALS of Intelligence](als_resources.md)
+                1. Ethical [Ambassador](als_resources.md)
     1. (flexibility) [Flexible](flexible.md)
         1. [Challengeable](challengeable.md)
             1. [Testable](testable.md)
@@ -44,9 +45,9 @@ keywords: [ethics, empathy, ethos, phylogeny]
 | attribute      | role          | OCEAN                 | measures               |
 |----------------|---------------|-----------------------|------------------------|
 | flexibility    |  arbiter      | (O) openness          | creativity, curiosity, and willingness to entertain new ideas |
-| responsibility |  voluntarist  | (C) conscientiousness | self-control, diligence, and attention to detail |
+| responsibility |  hero         | (C) conscientiousness | self-control, diligence, and attention to detail |
 | aware          |  ambassador   | (E) extraversion      | boldness, energy, and social interactivity |
-| cooperative    |  friend       | (A) agreeableness     | kindness, helpfulness, and willingness to cooperate |
+| cooperative    |  companion    | (A) agreeableness     | kindness, helpfulness, and willingness to cooperate |
 | provability    |  witness      | (N) neuroticism       | depression, irritability, and moodiness |
 
 

@@ -25,7 +25,7 @@ keywords: [republican ethos, ethos]
         1. [Responsible for Others](/phylogeny/resp_others.md)
             - Institutions that create institutions are responsible for their dissolution and for their ethos.
             1. [Missionary](/phylogeny/missionary.md)
-                1. [Voluntarist](/phylogeny/voluntarist.md)
+                1. [Heroic](/phylogeny/heroic.md)
                     1. [Art Making](/phylogeny/making_art.md)
                         1. [Ethos Forming](/phylogeny/forming.md)
     1. (awareness) [Aware of Limitations and Surplus (ALS)](/phylogeny/aware_ls.md)

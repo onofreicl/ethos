@@ -12,7 +12,7 @@ keywords: [making art ethos, ethos]
 
 ## Derived From
 
-- [Voluntarist](voluntarist.md)
+- [Heroic](heroic.md)
 
 ## Additions to the Derived:
 

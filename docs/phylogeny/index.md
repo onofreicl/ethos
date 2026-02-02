@@ -47,8 +47,31 @@ keywords: [ethics, empathy, ethos, phylogeny]
 | flexibility    |  arbiter      | (O) openness          | creativity, curiosity, and willingness to entertain new ideas |
 | responsibility |  hero         | (C) conscientiousness | self-control, diligence, and attention to detail |
 | aware          |  ambassador   | (E) extraversion      | boldness, energy, and social interactivity |
-| cooperative    |  companion    | (A) agreeableness     | kindness, helpfulness, and willingness to cooperate |
+| cooperative    |  friend       | (A) agreeableness     | kindness, helpfulness, and willingness to cooperate |
 | provability    |  witness      | (N) neuroticism       | depression, irritability, and moodiness |
 
 
+### Friend
+
+An ethical friend has the role to allow you to be aligned with your ethos. A friend may have the same ethos with you or a different ethos.
+
+![Friend](/images/friend.png)
+
+### Witness
+
+An ethical witness has the role of producing or composing ethical proofs.
+
+![Witness](/images/witness.png)
+
+### Ambassador
+
+An ethical ambassador discovers and maintains a cycle of exchange between 2 ethoses.
+
+![Ambassador](/images/ambassador.png)
+
+### Hero
+
+An ethical hero is a model of living an ethos. A hero is also shaping an ethos and presenting it to the public.
+
+![Hero](/images/hero.png)
 

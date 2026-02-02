@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024"
+   height="1024"
+   version="1.1"
+   id="svg1775"
+   sodipodi:docname="hero.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:export-filename="hero.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1779">
+    <marker
+       style="overflow:visible"
+       id="Arrow3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <defs
+       id="defs263">
+      <clipPath
+         id="c_Slovakia">
+        <path
+           id="s_Slovakia"
+           d="m 4678,1746 c 0,0 56,561 56,1683 -8,1146 -865,1726 -1494,2031 -629,-305 -1486,-885 -1494,-2031 0,-1122 56,-1683 56,-1683 z" />
+      </clipPath>
+    </defs>
+    <defs
+       id="defs194">
+      <g
+         id="s_europe">
+        <g
+           id="c_europe">
+          <path
+             id="t_europe"
+             d="M 0,0 V 1 H 0.5 Z"
+             transform="rotate(18,3.1568758,-0.5)" />
+          <use
+             xlink:href="#t_europe"
+             transform="scale(-1,1)"
+             id="use183" />
+        </g>
+        <g
+           id="a_europe">
+          <use
+             xlink:href="#c_europe"
+             transform="rotate(72)"
+             id="use186" />
+          <use
+             xlink:href="#c_europe"
+             transform="rotate(144)"
+             id="use188" />
+        </g>
+        <use
+           xlink:href="#a_europe"
+           transform="scale(-1,1)"
+           id="use191" />
+      </g>
+    </defs>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11808">
+      <rect
+         style="opacity:0.85;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect11810"
+         width="3771.334"
+         height="3771.334"
+         x="3023.9441"
+         y="1604.189" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11812">
+      <rect
+         style="opacity:0.85;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect11814"
+         width="5615.8921"
+         height="3758.0623"
+         x="2102.4319"
+         y="1657.5442" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11816">
+      <rect
+         style="opacity:0.85;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect11818"
+         width="1028.5714"
+         height="1028.5714"
+         x="830.06622"
+         y="-444.25732" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath654">
+      <rect
+         style="opacity:0.85;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect656"
+         width="34.285713"
+         height="34.285713"
+         x="-8.5714302"
+         y="-8.6669197" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1777"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.77246094"
+     inkscape:cx="510.70544"
+     inkscape:cy="512"
+     inkscape:current-layer="svg1775" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     transform="translate(-13.715005,-13.715005)" />
+  <ellipse
+     style="fill:none;stroke:#808080;stroke-width:10;stroke-linecap:square;stroke-dasharray:none"
+     id="path762"
+     cx="512"
+     cy="512"
+     rx="125.6789"
+     ry="77.673828" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:53.3333px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Italic';text-align:center;text-anchor:middle;fill:#808080;stroke:#808080;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+     x="510.48959"
+     y="531.73956"
+     id="text1477"><tspan
+       sodipodi:role="line"
+       id="tspan1475"
+       x="510.48959"
+       y="531.73956"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#808080;stroke-width:2;stroke-dasharray:none">Ethos A</tspan></text>
+  <path
+     style="fill:#808080;stroke:#808080;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Arrow3)"
+     d="M 512,368.9507 V 172.17699"
+     id="path1830"
+     inkscape:transform-center-y="-243.83339"
+     inkscape:tile-cx="512"
+     inkscape:tile-cy="514.39724"
+     inkscape:tile-w="105"
+     inkscape:tile-h="218.63031"
+     inkscape:tile-x0="459.5"
+     inkscape:tile-y0="157.82039" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     id="use2639"
+     inkscape:transform-center-y="-243.83339" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     transform="rotate(45,512,514.39723)"
+     id="use2649"
+     inkscape:transform-center-x="-172.41624"
+     inkscape:transform-center-y="-172.41625" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     transform="rotate(90,512,514.39723)"
+     id="use2659"
+     inkscape:transform-center-x="-243.83339"
+     inkscape:transform-center-y="-5e-06" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     transform="rotate(135,512,514.39724)"
+     id="use2669"
+     inkscape:transform-center-x="-172.41625"
+     inkscape:transform-center-y="172.41625" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     transform="rotate(180,512,514.39724)"
+     id="use2679"
+     inkscape:transform-center-y="243.8334" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     transform="rotate(-135,512,514.39723)"
+     id="use2689"
+     inkscape:transform-center-x="172.41624"
+     inkscape:transform-center-y="172.41624" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     transform="rotate(-90,512,514.39723)"
+     id="use2699"
+     inkscape:transform-center-x="243.83339"
+     inkscape:transform-center-y="-4.9999999e-06" />
+  <use
+     x="0"
+     y="0"
+     inkscape:tiled-clone-of="#path1830"
+     xlink:href="#path1830"
+     transform="rotate(-45,512,514.39724)"
+     id="use2709"
+     inkscape:transform-center-x="172.41625"
+     inkscape:transform-center-y="-172.41624" />
+</svg>

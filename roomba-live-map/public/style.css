@@ -1,0 +1,138 @@
+:root {
+  --bg: #10131a;
+  --panel: rgba(22, 27, 38, 0.92);
+  --ink: #e6e9f0;
+  --muted: #8b93a7;
+  --accent: #4fd1c5;
+  --on: #3ddc84;
+  --off: #ff5d5d;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#hud {
+  position: relative;
+  z-index: 2;
+  background: var(--panel);
+  padding: env(safe-area-inset-top) 14px 10px;
+  padding-top: max(env(safe-area-inset-top), 12px);
+  border-bottom: 1px solid #232838;
+}
+
+.hud-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.hud-row + .hud-row {
+  margin-top: 8px;
+}
+
+.spacer {
+  flex: 1;
+}
+
+#conn-label {
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex: none;
+}
+
+.dot-on {
+  background: var(--on);
+  box-shadow: 0 0 8px var(--on);
+}
+
+.dot-off {
+  background: var(--off);
+}
+
+.tag {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--bg);
+  background: var(--accent);
+  padding: 2px 7px;
+  border-radius: 4px;
+}
+
+.stats {
+  justify-content: space-between;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.stat-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.stat b {
+  font-size: 16px;
+  font-variant-numeric: tabular-nums;
+}
+
+#map {
+  flex: 1;
+  display: block;
+  width: 100%;
+  touch-action: none;
+}
+
+#controls {
+  display: flex;
+  gap: 10px;
+  padding: 10px 14px;
+  padding-bottom: max(env(safe-area-inset-bottom), 12px);
+  background: var(--panel);
+  border-top: 1px solid #232838;
+}
+
+button {
+  flex: 1;
+  padding: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+  background: #232838;
+  border: 1px solid #313850;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:active {
+  background: #2c3349;
+}

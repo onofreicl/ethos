@@ -1,0 +1,20 @@
+{
+  "name": "roomba-live-map",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Live cleaning-progress map for a local-MQTT Roomba (i-series / 900-series)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "mock": "node src/server.js --mock",
+    "credentials": "node scripts/get-credentials.js"
+  },
+  "engines": {
+    "node": ">=20.6"
+  },
+  "dependencies": {
+    "dorita980": "^4.0.0",
+    "express": "^5.2.1",
+    "ws": "^8.20.1"
+  }
+}
